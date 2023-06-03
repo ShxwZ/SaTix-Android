@@ -46,7 +46,16 @@ Estas son algunas de la funcionalidades principales, revisar el documento de [Me
 | Conexión a internet | El dispositivo necesitará conexión a internet para utilizar la aplicación. |
 | Configuración del servidor | Configurar la dirección IP de tu servidor con SaTix-Core en el archivo Config.java del parque API de la aplicación. |
 ## Dependencias
- - Es importante tener instalado en la máquina donde vaya a ejecutarse el SDK 17 de Java [Descargar SDK de Java]
+ - Es necesario tener una de las siguientes versiones de android en tu dispositivo o emulador:
+| Versión de Android | Nombre en clave |
+|-------------------|-----------------|
+| Android 8.0       | Oreo            |
+| Android 8.1       | Oreo            |
+| Android 9.0       | Pie             |
+| Android 10        | Q               |
+| Android 11        | R               |
+| Android 12        | S               |
+
 ## Webgrafía
 Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto:
 
