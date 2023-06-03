@@ -1,7 +1,9 @@
 
-<p align="center">
+<div align="center">
   <img src="logo.png" alt="SaTix" width="220">
-</p>
+
+<h1>SaTix Android App <a href="https://github.com/ShxwZ/SaTix-Android/releases/latest" target="_blank"><img alt="GitHub release" src="https://img.shields.io/github/v/release/ShxwZ/SaTix-Android"></a></h1>
+</div>
 
 ## Índice
 - [Descripción 📄](#descripción)
