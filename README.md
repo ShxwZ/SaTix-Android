@@ -45,7 +45,6 @@ Estas son algunas de la funcionalidades principales, revisar el documento de [Me
 | Cámara trasera | En el caso de uso como operador de la aplicación, será necesario que el teléfono tenga una cámara trasera. |
 | Conexión a internet | El dispositivo necesitará conexión a internet para utilizar la aplicación. |
 | Configuración del servidor | Configurar la dirección IP de tu servidor con SaTix-Core en el archivo Config.java del parque API de la aplicación. |
-                                                                                                                                                                                                                     |
 ## Dependencias
  - Es importante tener instalado en la máquina donde vaya a ejecutarse el SDK 17 de Java [Descargar SDK de Java]
 ## Webgrafía
