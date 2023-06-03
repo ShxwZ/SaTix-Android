@@ -52,19 +52,19 @@ Estas son algunas de la funcionalidades principales, revisar el documento de [Me
 
 - Login
 
-  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/0dff232c-4a3a-4276-a5f3-6b039595e25f" alt="Login" width="200">
+  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/310eecb3-7280-4270-827d-ddf11fa6c75a" alt="Login" width="200">
 
 - Pestaña entradas
 
-  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/d89b1190-a2b9-4db2-8e9b-0ffd83987e74" alt="Gestion-eventos" width="200">
+  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/3c66347a-6988-41ff-9405-af44c7fcfddc" alt="Gestion-eventos" width="200">
 
 - Pestaña eventos
 
-  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/595f2a97-3fe1-4687-b7ce-4feedb952ee9" alt="SaTix-Core" width="200">
+  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/3e83560f-37e7-419e-82b7-0f27b1a3d14c" alt="SaTix-Core" width="200">
 
 - Pestaña operario
 
-  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/4b15939f-ce9d-41cb-bd82-37c65a2b4985" alt="SaTix-Core" width="200">
+  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/198dd53e-e2a3-4dcb-864a-8cc0a58f2c40" alt="SaTix-Core" width="200">
 
 ## Dependencias
  - Es necesario tener una de las siguientes versiones de android en tu dispositivo o emulador:
