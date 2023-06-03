@@ -39,14 +39,17 @@ Estas son algunas de la funcionalidades principales, revisar el documento de [Me
 - Restricción de duplicación de entradas y caducidad de códigos.
 
 ## Requisitos para la instalación y puesta en marcha
+
 | Requisito | Descripción |
 |-----------|-------------|
 | Versión de Android | La aplicación está desarrollada en el SDK 26 para las siguientes versiones de Android: Android 8.0 Oreo, Android 8.1 Oreo, Android 9.0 Pie, Android 10 Q, Android 11 R, Android 12 S. |
 | Cámara trasera | En el caso de uso como operador de la aplicación, será necesario que el teléfono tenga una cámara trasera. |
 | Conexión a internet | El dispositivo necesitará conexión a internet para utilizar la aplicación. |
 | Configuración del servidor | Configurar la dirección IP de tu servidor con SaTix-Core en el archivo Config.java del parque API de la aplicación. |
+
 ## Dependencias
  - Es necesario tener una de las siguientes versiones de android en tu dispositivo o emulador:
+
 | Versión de Android | Nombre en clave |
 |-------------------|-----------------|
 | Android 8.0       | Oreo            |
