@@ -8,6 +8,7 @@
 - [Funcionalidades principales ⚙](Funcionalidades-Principales)
 - [Requisitos para la instalación y puesta en marcha 🔑](#Requisitos-para-la-instalación-y-puesta-en-marcha)
 - [Dependencias 🔗](#dependencias)
+- [Preview 🖼](#preview)
 - [Webgrafía 🌐](#Webgrafía)
 - [Memoria del proyecto 🖋](#Memoria-del-proyecto)
 - [Posibles ampliaciones 🔧](#Posibles-ampliaciones)
@@ -46,6 +47,24 @@ Estas son algunas de la funcionalidades principales, revisar el documento de [Me
 | Cámara trasera | En el caso de uso como operador de la aplicación, será necesario que el teléfono tenga una cámara trasera. |
 | Conexión a internet | El dispositivo necesitará conexión a internet para utilizar la aplicación. |
 | Configuración del servidor | Configurar la dirección IP de tu servidor con SaTix-Core en el archivo Config.java del parque API de la aplicación. |
+
+## Preview
+
+- Login
+
+  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/0dff232c-4a3a-4276-a5f3-6b039595e25f" alt="Login" width="200">
+
+- Pestaña entradas
+
+  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/d89b1190-a2b9-4db2-8e9b-0ffd83987e74" alt="Gestion-eventos" width="200">
+
+- Pestaña eventos
+
+  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/595f2a97-3fe1-4687-b7ce-4feedb952ee9" alt="SaTix-Core" width="200">
+
+- Pestaña operario
+
+  <img src="https://github.com/ShxwZ/SaTix-Android/assets/39011276/4b15939f-ce9d-41cb-bd82-37c65a2b4985" alt="SaTix-Core" width="200">
 
 ## Dependencias
  - Es necesario tener una de las siguientes versiones de android en tu dispositivo o emulador:
