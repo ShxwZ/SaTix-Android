@@ -12,7 +12,6 @@
 - [Dependencias 🔗](#dependencias)
 - [Preview 🖼](#preview)
 - [Webgrafía 🌐](#Webgrafía)
-- [Memoria del proyecto 🖋](#Memoria-del-proyecto)
 - [Posibles ampliaciones 🔧](#Posibles-ampliaciones)
 - [Memoria 🧠](#memoria)
 - [Licencia ⚖️](#licencia)
